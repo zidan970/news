@@ -1,0 +1,29 @@
+.search {
+    padding: 8px 15px;
+    background: rgba(255, 255, 255, 1);
+    border: 0px solid #dbdbdb;
+}
+
+.button {
+    position: relative;
+    padding: 6px 15px;
+    left: -8px;
+    border: 2px solid rgb(191, 33, 30);
+    background-color: rgb(191, 33, 30);
+    color: #fafafa;
+}
+
+.button:hover {
+    background-color: #fafafa;
+    color: #207cca;
+}
+
+footer h6 {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin: auto;
+}
+
+.list-group-item list-group-item-action {
+    color: #db1e1e;
+}

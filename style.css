@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@1,500;1,600&display=swap');
+
+.search 
+{
+    padding: 4px 15px;
+    background: #dbdbdb;
+    border: 0px solid #dbdbdb;
+}
+
+.button 
+{
+    position: relative;
+    padding: 2px 15px;
+    left: -8px;
+    border: 2px solid rgb(191, 33, 30);
+    background-color: rgb(191, 33, 30);
+    color: #fafafa;
+}
+
+.button:hover 
+{
+    background-color: #fafafa;
+    color: #207cca;
+}
+
+footer h6 
+{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin: auto;
+}
+
+body h4 
+{
+    font-family: 'EB Garamond', serif;
+    text-align: left;
+    font-size: 40px;
+    padding-bottom: 230px;
+    padding-right: 600px;
+    margin-left: -55px;
+}
+
